@@ -17,7 +17,7 @@ layout: cover
 ---
 
 <GlowBackground>
-  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Shenzhen Meetup</h1>
+  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Meetup Shenzhen</h1>
 </GlowBackground>
 
 ---
