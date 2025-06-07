@@ -1,128 +1,208 @@
 ---
-title: Cursor Meetup Bangalore
+title: Cursor Meetup Shenzhen
 info: |
-  22 May 2025 · 7 PM – 9 PM · Bengaluru, Karnataka
-class: bg-[#0F0F0F] text-white text-center
+  8 Jun 2025 · 2 PM – 6 PM · Shenzhen, China
+class: bg-[#0F0F0F] text-white
 mdc: true
 theme: slidev-theme-cursor
 layout: cover
 ---
-<div class="flex flex-col items-center gap-4">
-  <h2 class="text-2xl font-bold">Access the Slides</h2>
-  <img src="./assets/slides_qr.png" alt="Cursor Logo" class="mx-auto" />
-  <a href="https://sanjeed5.github.io/cursor-slidev/" class="text-lg hover:underline">https://sanjeed5.github.io/cursor-slidev/</a>
-</div>
+---
+layout: center
+class: text-center
+---
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">WeChat</div>
+<div class="text-6xl mb-6">加入微信群</div>
+
+<img src="./assets/slides_qr.png" alt="Wechat QR Code" class="mx-auto w-64 h-64 rounded-lg mt-8 border border-gray-800" />
 
 ---
 
 <GlowBackground>
-  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Bangalore</h1>
+  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Shenzhen</h1>
 </GlowBackground>
 
 ---
+layout: center
+class: text-center
+---
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Community</div>
+<div class="text-6xl mb-6">Cursor 中文社区的故事</div>
 
-# Community Map
+<div class="grid grid-cols-2 gap-4 mt-10 text-xl max-w-xl mx-auto font-mono">
+  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">Mai Yang</div>
+  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">Marvin Ma</div>
+  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">Jason Zhu</div>
+  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">Kin Gao</div>
+</div>
 
-<a href="https://lu.ma/cursorcommunity/map" target="_blank">
-  <img src="./assets/map.png" alt="Community Map" class="mx-auto my-auto" />
+---
+layout: center
+class: text-center
+---
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Community</div>
+<div class="text-6xl mb-6">Community Map</div>
+
+<a href="https://lu.ma/cursorcommunity/map" target="_blank" class="block mt-8">
+  <img src="./assets/map.png" alt="Community Map" class="mx-auto my-auto rounded-lg shadow-lg max-h-[60vh] border border-gray-800" />
 </a>
 
 ---
-
-# Welcome
-
-- **Sanjeed** – Cursor Ambassador India, AI Consultant
-- Thanks to **Lightspeed India Partners** for the venue  
-- Thanks to **Utopia** for being our community partner
-
+layout: center
 ---
-
-# Agenda
-
-1. Welcome & Introductions  
-2. Cursor **Power Users Tips & Workflows**  
-3. Special Guest Speaker – **Eric Zakariasson** (Cursor)  
-4. Networking & Community  
-
----
-
-# Speaker 1
-
-- **Anurag**: _Scaling a Portfolio of Products with Cursor_
-  - Indie Founder @productlogz, @quotesmatic_ai
-  - https://x.com/ak_8085
-
----
-
-# Speaker 2
-
-- **Darshill**: _Rapid Cross-Platform Refactors with Cursor Agent_
-  - Building http://Linkrunner.io
-  - Founding Team @bluelearn
-
----
-
-# Speaker 3
-
-- **Siddhant Goswami**:
-  - Built & scaled 3 products to $10M+
-  - Building @100xengineers, 2 exits (Tapchief, Scenes)
-  - https://x.com/geeksiddhant
-
----
-
-# Speaker 4
-
-- **Sanjeed**:
-  - Topic: _How I made these slides using Cursor and Background Agent demo_
-  - Applied AI consultant & Cursor Ambassador India
-  - Created [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - 1400+ stars
-  - Worked with Langchain on multi-turn evals in the [openevals repo by Langchain](https://github.com/langchain-ai/openevals?tab=readme-ov-file#acknowledgements)
-  - https://x.com/sanjeed_i · sanjeed.in
-
----
-
-# Speaker 5
-
-- **Rudrag Rudraksh Karpe**: _Setting up cursor rules_
-  - LLM Engineer at ZS Associates
-  - Google Summer of Code Contributor @ openSUSE
-
----
-
-# Special Guest Speaker from Cursor!
-
-**Eric Zakariasson**  
-
-Follow him on X for best Cursor tips! -> (<https://x.com/ericzakariasson>)
-
-_Topic: Q&A with Bangalore Cursor Community_
-
----
-
-# Join the Cursor India Group
-
-<div class="flex items-center justify-center h-full">
-<img src="./assets/cursor_india.png" alt="Cursor India" class="w-96" />
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4 text-center">Agenda</div>
+<div class="flex flex-col gap-y-4 mt-8 max-w-2xl mx-auto text-lg">
+  <div class="flex items-center p-2">
+    <span class="w-8 mr-3 text-gray-600 font-mono">1.</span>
+    <span class="text-gray-300">Greetings from Cursor!</span>
+  </div>
+  <div class="flex items-center p-2">
+    <span class="w-8 mr-3 text-gray-600 font-mono">2.</span>
+    <span class="text-gray-300">Marvin Ma: Cursor: Yesterday, Today, Tomorrow</span>
+  </div>
+  <div class="flex items-center p-2">
+    <span class="w-8 mr-3 text-gray-600 font-mono">3.</span>
+    <span class="text-gray-300">清酒: Cursor 怎么帮我在电商持续掘金？</span>
+  </div>
+  <div class="flex items-center p-2">
+    <span class="w-8 mr-3 text-gray-600 font-mono">4.</span>
+    <span class="text-gray-300">Cursor 公司应用方法论</span>
+  </div>
+  <div class="flex items-center p-2">
+    <span class="w-8 mr-3 text-gray-600 font-mono">5.</span>
+    <span class="text-gray-300">中场休息</span>
+  </div>
+  <div class="flex items-center p-2">
+    <span class="w-8 mr-3 text-gray-600 font-mono">6.</span>
+    <span class="text-gray-300">Cursor 使用技巧</span>
+  </div>
+  <div class="flex items-center p-2">
+    <span class="w-8 mr-3 text-gray-600 font-mono">7.</span>
+    <span class="text-gray-300">Cursor 项目展示</span>
+  </div>
+  <div class="flex items-center p-2">
+    <span class="w-8 mr-3 text-gray-600 font-mono">8.</span>
+    <span class="text-gray-300">Cursor 面对面：产品反馈</span>
+  </div>
 </div>
 
 ---
-
-# Scan to Join
-
-<div class="flex items-center justify-center h-full">
-<img src="./assets/cursor_india_qr.jpeg" alt="QR Code" class="w-64" />
-</div>
-
-_Join our WhatsApp group & stay updated on all things Cursor_
+layout: center
+class: text-center
+---
+<div class="text-6xl">Greetings from Cursor!</div>
 
 ---
+layout: center
+class: text-center
+---
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Speaker</div>
+<div class="text-6xl mb-6">Marvin Ma</div>
+<div class="text-2xl text-blue-400">Cursor: Yesterday, Today, Tomorrow</div>
 
-# Thank You
-Questions? Reach out to me on X!
+---
+layout: center
+class: text-center
+---
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Speaker</div>
+<div class="text-6xl mb-6">清酒</div>
+<div class="text-2xl text-blue-400">Cursor 怎么帮我在电商持续掘金？</div>
 
-- Website: <https://www.sanjeed.in>
-- Twitter: <https://x.com/sanjeed_i>
-- LinkedIn: <https://linkedin.com/in/msanjeed>
+---
+layout: center
+class: text-center
+---
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Topic</div>
+<div class="text-6xl mb-6">企业应用</div>
+<div class="text-2xl text-blue-400">Cursor 公司应用方法论</div>
 
-<small>© Cursor Community</small> 
+<div class="grid md:grid-cols-2 gap-8 mt-12 text-center text-2xl font-light">
+  <div>
+    <div class="font-normal text-3xl mb-2">Devansh</div>
+    <div class="text-gray-400">Cursor in Startups: Iterating Fast</div>
+  </div>
+  <div>
+    <div class="font-normal text-3xl mb-2">程建辉</div>
+    <div class="text-gray-400">AI 驱动的代码革命</div>
+  </div>
+</div>
+---
+layout: center
+class: text-center
+---
+<div class="text-6xl mb-6">中场休息</div>
+<div class="text-2xl text-gray-400">
+  Post <span class="text-blue-400 font-mono">#cursor-meetup-shenzhen</span> on X (Twitter)
+</div>
+<div class="mt-4 text-xl text-gray-500 font-mono">
+  @benln &middot; @CursorChina
+</div>
+
+---
+layout: center
+class: text-center
+---
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Topic</div>
+<div class="text-6xl mb-6">使用技巧</div>
+
+<div class="grid md:grid-cols-3 gap-8 mt-12 text-center text-2xl font-light">
+  <div>
+    <div class="font-normal text-3xl mb-2">Ceyu</div>
+    <div class="text-gray-400 text-xl">生产级别的开发协作</div>
+  </div>
+  <div>
+    <div class="font-normal text-3xl mb-2">Thor</div>
+    <div class="text-gray-400 text-xl">Figma MCP + 团队组件库</div>
+  </div>
+  <div>
+    <div class="font-normal text-3xl mb-2">石先念</div>
+    <div class="text-gray-400 text-xl">vibe coding 之前 vibe 点什么</div>
+  </div>
+</div>
+
+---
+layout: center
+class: text-center
+---
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Topic</div>
+<div class="text-6xl mb-6">项目展示</div>
+
+<div class="grid md:grid-cols-2 gap-8 mt-12 text-center text-2xl font-light">
+  <div>
+    <div class="font-normal text-3xl mb-2">樊锴，张昊然</div>
+    <div class="text-gray-400 text-xl">Motiff: From Vibe Design to Code</div>
+  </div>
+  <div>
+    <div class="font-normal text-3xl mb-2">姜山Sean</div>
+    <div class="text-gray-400 text-xl">如何使用Cursor开一家AI公司</div>
+  </div>
+</div>
+
+---
+layout: image-right
+image: /assets/benln.jpg
+imageClass: rounded-lg
+class: text-left
+---
+<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Special Guest</div>
+<div class="text-6xl mb-6">Ben Lang</div>
+<div class="text-2xl text-blue-400">Cursor 面对面：产品反馈</div>
+
+<div class="text-xl mt-8 flex items-center gap-2 font-mono text-gray-400">
+  <carbon:logo-twitter /> @benln
+</div>
+
+---
+layout: center
+class: text-center font-mono
+---
+<div class="text-5xl mb-8">Thank You</div>
+
+<div class="text-2xl text-blue-400">
+  #cursor-meetup-shenzhen
+</div>
+<div class="flex justify-center space-x-6 mt-6 text-xl text-gray-500">
+  <span>@benln</span>
+  <span>@talkgo_night</span>
+  <span>@CursorChina</span>
+</div>
