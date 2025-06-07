@@ -179,7 +179,7 @@ class: text-center
 
 ---
 layout: image-right
-image: /assets/benln.avif
+image: https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d4ff472a-55f2-4af4-94fb-415471b8abbf/22C20C24-BBE0-44DA-9F77-0A0ADB49DB5A/w=1024,quality=100,fit=scale-down
 imageClass: rounded-lg
 class: text-left
 ---
