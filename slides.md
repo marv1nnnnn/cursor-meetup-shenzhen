@@ -11,7 +11,7 @@ layout: cover
   <div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">WeChat</div>
   <div class="text-6xl mb-6">加入微信群</div>
 
-  <img src="./assets/slides_qr.png" alt="Wechat QR Code" class="mx-auto w-64 h-64 rounded-lg mt-8 border border-gray-800" />
+  <img src="/assets/qrcode.jpg" alt="Wechat QR Code" class="mx-auto w-64 rounded-lg mt-8 border border-gray-800" />
 </div>
 
 ---
@@ -120,7 +120,7 @@ class: text-center
   </div>
   <div>
     <div class="font-normal text-3xl mb-2">程建辉</div>
-    <div class="text-blue-400">AI 驱动的代码革命</div>
+    <div class="text-blue-400">AI 驱动的代码革命：Cursor 在进门的落地启示</div>
   </div>
 </div>
 ---
@@ -179,7 +179,7 @@ class: text-center
 
 ---
 layout: image-right
-image: https://pbs.twimg.com/profile_images/1713995709916012544/GHmSl9EK_400x400.jpg
+image: /assets/benln.avif
 imageClass: rounded-lg
 class: text-left
 ---
