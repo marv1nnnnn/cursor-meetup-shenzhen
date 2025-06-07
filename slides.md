@@ -129,7 +129,7 @@ class: text-center
 ---
 <div class="text-6xl mb-6">中场休息</div>
 <div class="text-2xl text-gray-400">
-  Post <span class="text-blue-400 font-mono">#cursor-meetup-shenzhen</span> on X (Twitter)
+  Post <span class="text-blue-400 font-mono">#CursorMeetupShenzhen</span> on X (Twitter)
 </div>
 <div class="text-xl text-gray-400 mt-2">Get a limited edition Cursor sticker!</div>
 <div class="mt-4 text-xl text-gray-500 font-mono flex items-center justify-center gap-4">
