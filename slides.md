@@ -7,27 +7,17 @@ mdc: true
 theme: slidev-theme-cursor
 layout: cover
 ---
+<div class="text-center">
+  <div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">WeChat</div>
+  <div class="text-6xl mb-6">加入微信群</div>
 
----
-layout: cover
-class: text-center
----
-# Cursor Shenzhen Meetup
-## 2025/06/08
-
----
-layout: center
-class: text-center
----
-<div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">WeChat</div>
-<div class="text-6xl mb-6">加入微信群</div>
-
-<img src="./assets/slides_qr.png" alt="Wechat QR Code" class="mx-auto w-64 h-64 rounded-lg mt-8 border border-gray-800" />
+  <img src="./assets/slides_qr.png" alt="Wechat QR Code" class="mx-auto w-64 h-64 rounded-lg mt-8 border border-gray-800" />
+</div>
 
 ---
 
 <GlowBackground>
-  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Shenzhen</h1>
+  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Shenzhen Meetup</h1>
 </GlowBackground>
 
 ---
@@ -198,7 +188,7 @@ class: text-left
 <div class="text-2xl text-blue-400">Cursor 面对面：产品反馈</div>
 
 <div class="text-xl mt-8 flex items-center gap-2 font-mono text-gray-400">
-  <carbon:logo-twitter /> @benln
+  <carbon:logo-x /> @benln
 </div>
 
 ---
