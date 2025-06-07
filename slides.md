@@ -64,7 +64,7 @@ layout: center
   </div>
   <div class="flex items-center p-2">
     <span class="w-8 mr-3 text-gray-600 font-mono">4.</span>
-    <span class="text-gray-300">Cursor 公司应用方法论</span>
+    <span class="text-gray-300">Cursor x 企业应用</span>
   </div>
   <div class="flex items-center p-2">
     <span class="w-8 mr-3 text-gray-600 font-mono">5.</span>
@@ -72,11 +72,11 @@ layout: center
   </div>
   <div class="flex items-center p-2">
     <span class="w-8 mr-3 text-gray-600 font-mono">6.</span>
-    <span class="text-gray-300">Cursor 使用技巧</span>
+    <span class="text-gray-300">Cursor x 使用技巧</span>
   </div>
   <div class="flex items-center p-2">
     <span class="w-8 mr-3 text-gray-600 font-mono">7.</span>
-    <span class="text-gray-300">Cursor 项目展示</span>
+    <span class="text-gray-300">Cursor x 项目展示</span>
   </div>
   <div class="flex items-center p-2">
     <span class="w-8 mr-3 text-gray-600 font-mono">8.</span>
@@ -112,7 +112,6 @@ class: text-center
 ---
 <div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Topic</div>
 <div class="text-6xl mb-6">企业应用</div>
-<div class="text-2xl text-blue-400">Cursor 公司应用方法论</div>
 
 <div class="grid md:grid-cols-2 gap-8 mt-12 text-center text-2xl font-light">
   <div>
