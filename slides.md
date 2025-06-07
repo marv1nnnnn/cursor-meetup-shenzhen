@@ -147,11 +147,11 @@ class: text-center
 <div class="grid md:grid-cols-3 gap-8 mt-12 text-center text-2xl font-light">
   <div>
     <div class="font-normal text-3xl mb-2">Ceyu</div>
-    <div class="text-blue-400 text-xl">生产级别的开发协作</div>
+    <div class="text-blue-400 text-xl">如何将 Cursor 用于生产级别的开发协作</div>
   </div>
   <div>
     <div class="font-normal text-3xl mb-2">Thor</div>
-    <div class="text-blue-400 text-xl">Figma MCP + 团队组件库</div>
+    <div class="text-blue-400 text-xl">如何使用Cursor+Figma MCP+团队组件库高度还原设计稿</div>
   </div>
   <div>
     <div class="font-normal text-3xl mb-2">石先念</div>
@@ -169,11 +169,11 @@ class: text-center
 <div class="grid md:grid-cols-2 gap-8 mt-12 text-center text-2xl font-light">
   <div>
     <div class="font-normal text-3xl mb-2">樊锴，张昊然</div>
-    <div class="text-blue-400 text-xl">Motiff: From Vibe Design to Code</div>
+    <div class="text-blue-400 text-xl">Motiff + Cursor: From Vibe Design to Coding</div>
   </div>
   <div>
     <div class="font-normal text-3xl mb-2">姜山Sean</div>
-    <div class="text-blue-400 text-xl">如何使用Cursor开一家AI公司</div>
+    <div class="text-blue-400 text-xl">如何使用 Cursor 开一家 AI 公司</div>
   </div>
 </div>
 
