@@ -116,11 +116,11 @@ class: text-center
 <div class="grid md:grid-cols-2 gap-8 mt-12 text-center text-2xl font-light">
   <div>
     <div class="font-normal text-3xl mb-2">Devansh</div>
-    <div class="text-gray-400">Cursor in Startups: Iterating Fast</div>
+    <div class="text-blue-400">Cursor in Startups: Iterating Fast</div>
   </div>
   <div>
     <div class="font-normal text-3xl mb-2">程建辉</div>
-    <div class="text-gray-400">AI 驱动的代码革命</div>
+    <div class="text-blue-400">AI 驱动的代码革命</div>
   </div>
 </div>
 ---
@@ -146,15 +146,15 @@ class: text-center
 <div class="grid md:grid-cols-3 gap-8 mt-12 text-center text-2xl font-light">
   <div>
     <div class="font-normal text-3xl mb-2">Ceyu</div>
-    <div class="text-gray-400 text-xl">生产级别的开发协作</div>
+    <div class="text-blue-400 text-xl">生产级别的开发协作</div>
   </div>
   <div>
     <div class="font-normal text-3xl mb-2">Thor</div>
-    <div class="text-gray-400 text-xl">Figma MCP + 团队组件库</div>
+    <div class="text-blue-400 text-xl">Figma MCP + 团队组件库</div>
   </div>
   <div>
     <div class="font-normal text-3xl mb-2">石先念</div>
-    <div class="text-gray-400 text-xl">vibe coding 之前 vibe 点什么</div>
+    <div class="text-blue-400 text-xl">vibe coding 之前 vibe 点什么</div>
   </div>
 </div>
 
@@ -168,11 +168,11 @@ class: text-center
 <div class="grid md:grid-cols-2 gap-8 mt-12 text-center text-2xl font-light">
   <div>
     <div class="font-normal text-3xl mb-2">樊锴，张昊然</div>
-    <div class="text-gray-400 text-xl">Motiff: From Vibe Design to Code</div>
+    <div class="text-blue-400 text-xl">Motiff: From Vibe Design to Code</div>
   </div>
   <div>
     <div class="font-normal text-3xl mb-2">姜山Sean</div>
-    <div class="text-gray-400 text-xl">如何使用Cursor开一家AI公司</div>
+    <div class="text-blue-400 text-xl">如何使用Cursor开一家AI公司</div>
   </div>
 </div>
 
