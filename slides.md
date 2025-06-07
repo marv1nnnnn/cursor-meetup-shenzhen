@@ -7,6 +7,14 @@ mdc: true
 theme: slidev-theme-cursor
 layout: cover
 ---
+
+---
+layout: cover
+class: text-center
+---
+# Cursor Shenzhen Meetup
+## 2025/06/08
+
 ---
 layout: center
 class: text-center
@@ -134,8 +142,9 @@ class: text-center
 <div class="text-2xl text-gray-400">
   Post <span class="text-blue-400 font-mono">#cursor-meetup-shenzhen</span> on X (Twitter)
 </div>
-<div class="mt-4 text-xl text-gray-500 font-mono">
-  @benln &middot; @CursorChina
+<div class="mt-4 text-xl text-gray-500 font-mono flex items-center justify-center gap-4">
+  <span><carbon:logo-x /> @benln</span>
+  <span><carbon:logo-x /> @CursorChina</span>
 </div>
 
 ---
@@ -180,7 +189,7 @@ class: text-center
 
 ---
 layout: image-right
-image: /assets/benln.jpg
+image: https://pbs.twimg.com/profile_images/1713995709916012544/GHmSl9EK_400x400.jpg
 imageClass: rounded-lg
 class: text-left
 ---
@@ -198,11 +207,10 @@ class: text-center font-mono
 ---
 <div class="text-5xl mb-8">Thank You</div>
 
-<div class="text-2xl text-blue-400">
+<div class="text-2xl text-blue-400 font-mono">
   #cursor-meetup-shenzhen
 </div>
-<div class="flex justify-center space-x-6 mt-6 text-xl text-gray-500">
-  <span>@benln</span>
-  <span>@talkgo_night</span>
-  <span>@CursorChina</span>
+<div class="flex justify-center space-x-6 mt-6 text-xl text-gray-500 items-center">
+  <span><carbon:logo-x /> @benln</span>
+  <span><carbon:logo-x /> @CursorChina</span>
 </div>
