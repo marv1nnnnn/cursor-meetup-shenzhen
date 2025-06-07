@@ -131,6 +131,7 @@ class: text-center
 <div class="text-2xl text-gray-400">
   Post <span class="text-blue-400 font-mono">#cursor-meetup-shenzhen</span> on X (Twitter)
 </div>
+<div class="text-xl text-gray-400 mt-2">Get a limited edition Cursor sticker!</div>
 <div class="mt-4 text-xl text-gray-500 font-mono flex items-center justify-center gap-4">
   <span><carbon:logo-x /> @benln</span>
   <span><carbon:logo-x /> @CursorChina</span>
