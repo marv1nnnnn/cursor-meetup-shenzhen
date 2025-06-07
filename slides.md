@@ -80,7 +80,7 @@ layout: center
   </div>
   <div class="flex items-center p-2">
     <span class="w-8 mr-3 text-gray-600 font-mono">8.</span>
-    <span class="text-gray-300">Cursor 面对面：产品反馈</span>
+    <span class="text-gray-300">Cursor Face to Face: Prouduct Feedback</span>
   </div>
 </div>
 
@@ -133,8 +133,8 @@ class: text-center
 </div>
 <div class="text-xl text-gray-400 mt-2">Get a limited edition Cursor sticker!</div>
 <div class="mt-4 text-xl text-gray-500 font-mono flex items-center justify-center gap-4">
-  <span><carbon:logo-x /> @benln</span>
-  <span><carbon:logo-x /> @CursorChina</span>
+  <a href="https://x.com/benln" target="_blank" class="flex items-center gap-2 hover:text-blue-400"><carbon:logo-x /> @benln</a>
+  <a href="https://x.com/CursorChina" target="_blank" class="flex items-center gap-2 hover:text-blue-400"><carbon:logo-x /> @CursorChina</a>
 </div>
 
 ---
@@ -185,10 +185,12 @@ class: text-left
 ---
 <div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">Special Guest</div>
 <div class="text-6xl mb-6">Ben Lang</div>
-<div class="text-2xl text-blue-400">Cursor 面对面：产品反馈</div>
+<div class="text-2xl text-blue-400">Cursor Face to Face: Product Feedback</div>
 
-<div class="text-xl mt-8 flex items-center gap-2 font-mono text-gray-400">
-  <carbon:logo-x /> @benln
+<div class="text-xl mt-8 font-mono text-gray-400">
+  <a href="https://x.com/benln" target="_blank" class="flex items-center gap-2 hover:text-blue-400">
+    <carbon:logo-x /> @benln
+  </a>
 </div>
 
 ---
@@ -198,9 +200,9 @@ class: text-center font-mono
 <div class="text-5xl mb-8">Thank You</div>
 
 <div class="text-2xl text-blue-400 font-mono">
-  #cursor-meetup-shenzhen
+  #CursorShenzhenMeetup
 </div>
 <div class="flex justify-center space-x-6 mt-6 text-xl text-gray-500 items-center">
-  <span><carbon:logo-x /> @benln</span>
-  <span><carbon:logo-x /> @CursorChina</span>
+  <a href="https://x.com/benln" target="_blank" class="flex items-center gap-2 hover:text-blue-400"><carbon:logo-x /> @benln</a>
+  <a href="https://x.com/CursorChina" target="_blank" class="flex items-center gap-2 hover:text-blue-400"><carbon:logo-x /> @CursorChina</a>
 </div>
