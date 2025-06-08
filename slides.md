@@ -201,7 +201,26 @@ class: text-left
 layout: center
 class: text-center
 ---
-<div class="text-6xl mb-6">Special Thanks</div>
+<div class="text-6xl mb-10">Special Thanks</div>
+<div v-cick class="max-w-3xl mx-auto text-2xl space-y-5 text-left">
+  <div><span class="font-semibold text-blue-400">场地赞助: <a href="https://www.aftership.com" target="_blank"><img src="./assets/aftership_orange.jpg" class="h-8 mr-2 translate-y-1 inline border-0" alt="Aftership" /></a></span></div>
+  <div v-click>
+    <span class="font-semibold text-blue-400">限量款徽章设计:</span>
+    <span class="ml-3 text-gray-200">戈丁</span>
+  </div>
+  <div v-click>
+    <span class="font-semibold text-blue-400">策划组 & 志愿者:</span>
+    <div class="text-xl text-gray-300 leading-relaxed mt-2">
+      Helios, 邵佳琪, Fenix, 戈丁, Kang, 张震, 李兆龙, Tecvan, Murphy, Jacky, Vio, 陈琨, 御, 腾艺萌, 霁风
+    </div>
+  </div>
+  <div v-click class="pt-4">
+    <span class="font-semibold text-blue-400 text-2xl">感谢远道而来的朋友们!</span>
+  </div>
+  <div v-click class="pt-4">
+    <span class="font-semibold text-blue-400 text-3xl">感谢参会的每一个人!</span>
+  </div>
+</div>
 
 ---
 layout: center
