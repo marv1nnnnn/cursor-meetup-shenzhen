@@ -49,38 +49,42 @@ class: text-center
 layout: center
 ---
 <div class="text-2xl text-gray-500 tracking-wider uppercase mb-4 text-center">Agenda</div>
-<div class="flex flex-col gap-y-4 mt-8 max-w-2xl mx-auto text-lg">
-  <div class="flex items-center p-2">
-    <span class="w-8 mr-3 text-gray-600 font-mono">1.</span>
+<div class="flex flex-col gap-y-2 mt-6 max-w-2xl mx-auto text-base">
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">1.</span>
     <span class="text-gray-300">Greetings from Cursor!</span>
   </div>
-  <div class="flex items-center p-2">
-    <span class="w-8 mr-3 text-gray-600 font-mono">2.</span>
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">2.</span>
     <span class="text-gray-300">Marvin Ma: Cursor: Yesterday, Today, Tomorrow</span>
   </div>
-  <div class="flex items-center p-2">
-    <span class="w-8 mr-3 text-gray-600 font-mono">3.</span>
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">3.</span>
     <span class="text-gray-300">清酒: Cursor 怎么帮我在电商持续掘金？</span>
   </div>
-  <div class="flex items-center p-2">
-    <span class="w-8 mr-3 text-gray-600 font-mono">4.</span>
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">4.</span>
     <span class="text-gray-300">Cursor x 企业应用</span>
   </div>
-  <div class="flex items-center p-2">
-    <span class="w-8 mr-3 text-gray-600 font-mono">5.</span>
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">5.</span>
     <span class="text-gray-300">中场休息</span>
   </div>
-  <div class="flex items-center p-2">
-    <span class="w-8 mr-3 text-gray-600 font-mono">6.</span>
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">6.</span>
     <span class="text-gray-300">Cursor x 使用技巧</span>
   </div>
-  <div class="flex items-center p-2">
-    <span class="w-8 mr-3 text-gray-600 font-mono">7.</span>
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">7.</span>
     <span class="text-gray-300">Cursor x 项目展示</span>
   </div>
-  <div class="flex items-center p-2">
-    <span class="w-8 mr-3 text-gray-600 font-mono">8.</span>
-    <span class="text-gray-300">Cursor Face to Face: Prouduct Feedback</span>
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">8.</span>
+    <span class="text-gray-300">Cursor Face to Face: Product Feedback</span>
+  </div>
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">9.</span>
+    <span class="text-gray-300">Networking</span>
   </div>
 </div>
 
@@ -195,12 +199,18 @@ class: text-left
 
 ---
 layout: center
+class: text-center
+---
+<div class="text-6xl mb-6">Special Thanks</div>
+
+---
+layout: center
 class: text-center font-mono
 ---
 <div class="text-5xl mb-8">Thank You</div>
 
 <div class="text-2xl text-blue-400 font-mono">
-  #CursorShenzhenMeetup
+  #CursorMeetupShenzhen
 </div>
 <div class="flex justify-center space-x-6 mt-6 text-xl text-gray-500 items-center">
   <a href="https://x.com/benln" target="_blank" class="flex items-center gap-2 hover:text-blue-400"><carbon:logo-x /> @benln</a>
