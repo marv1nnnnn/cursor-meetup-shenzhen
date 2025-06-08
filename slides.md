@@ -90,9 +90,11 @@ layout: center
 
 ---
 layout: center
-class: text-center
 ---
-<div class="text-6xl">Greetings from Cursor!</div>
+<div class="flex items-center justify-center gap-12">
+  <div class="text-6xl text-left">Greetings from Cursor!</div>
+  <video v-click autoplay loop src="/assets/ryo.mp4" class="rounded-lg shadow-lg max-h-[60vh] border border-gray-800"></video>
+</div>
 
 ---
 layout: center
