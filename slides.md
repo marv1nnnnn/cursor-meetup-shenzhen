@@ -202,11 +202,14 @@ layout: center
 class: text-center
 ---
 <div class="text-6xl mb-10">Special Thanks</div>
-<div v-cick class="max-w-3xl mx-auto text-2xl space-y-5 text-left">
-  <div><span class="font-semibold text-blue-400">场地赞助: <a href="https://www.aftership.com" target="_blank"><img src="./assets/aftership_orange.jpg" class="h-8 mr-2 translate-y-1 inline border-0" alt="Aftership" /></a></span></div>
+<div class="max-w-3xl mx-auto text-2xl space-y-5 text-left">
+  <div>
+    <span class="font-semibold text-blue-400">场地赞助:</span>
+    <div class="mt-2"><img src="./assets/aftership_orange.jpg" class="h-8 inline-block border-0" alt="Aftership" /></div>
+  </div>
   <div v-click>
     <span class="font-semibold text-blue-400">限量款徽章设计:</span>
-    <span class="ml-3 text-gray-200">戈丁</span>
+    <div class="text-gray-200 mt-2">戈丁</div>
   </div>
   <div v-click>
     <span class="font-semibold text-blue-400">策划组 & 志愿者:</span>
