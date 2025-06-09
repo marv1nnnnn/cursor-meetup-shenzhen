@@ -5,20 +5,7 @@ info: |
 class: bg-[#0F0F0F] text-white
 mdc: true
 theme: slidev-theme-cursor
-layout: cover
----
-<div class="text-center">
-  <div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">WeChat</div>
-  <div class="text-6xl mb-6">Contact us</div>
-
-  <div class="grid grid-cols-2 gap-4 mt-8 max-w-xl mx-auto font-mono">
-    <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">mai_yang</div>
-    <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">marv1nnnnn</div>
-    <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">A5555555557</div>
-    <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">zhuzhs</div>
-  </div>
-</div>
-
+layout: cover-full
 ---
 
 <GlowBackground>
@@ -33,10 +20,22 @@ class: text-center
 <div class="text-6xl mb-6">Cursor 中文社区的故事</div>
 
 <div class="grid grid-cols-2 gap-4 mt-10 text-xl max-w-xl mx-auto font-mono">
-  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">Mai Yang</div>
-  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">Marvin Ma</div>
-  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">Jason Zhu</div>
-  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">Kin Gao</div>
+  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">
+    <div>Mai Yang</div>
+    <div class="text-gray-500">WeChat: mai_yang</div>
+  </div>
+  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">
+    <div>Marvin Ma</div>
+    <div class="text-gray-500">WeChat: marv1nnnnn</div>
+  </div>
+  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">
+    <div>Jason Zhu</div>
+    <div class="text-gray-500">WeChat: zhuzhs</div>
+  </div>
+  <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">
+    <div>Kin Gao</div>
+    <div class="text-gray-500">WeChat: A5555555557</div>
+  </div>
 </div>
 
 ---
@@ -98,7 +97,7 @@ layout: center
 ---
 <div class="flex items-center justify-center gap-12">
   <div class="text-6xl text-left">Greetings from Cursor!</div>
-  <video v-click autoplay loop src="/assets/ryo.mp4" class="rounded-lg shadow-lg max-h-[60vh] border border-gray-800"></video>
+  <video loop controls src="/assets/ryo.mp4" class="rounded-lg shadow-lg max-h-[60vh] border border-gray-800"></video>
 </div>
 
 ---
