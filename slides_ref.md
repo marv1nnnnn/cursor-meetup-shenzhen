@@ -627,6 +627,7 @@ console.log(`vue ${version}`)
 console.log(emptyArray<number>(10).reduce(fib => [...fib, fib.at(-1)! + fib.at(-2)!], [1, 1]))
 ```
 
+
 ---
 layout: center
 class: text-center
