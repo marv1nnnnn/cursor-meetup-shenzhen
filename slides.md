@@ -9,9 +9,14 @@ layout: cover
 ---
 <div class="text-center">
   <div class="text-2xl text-gray-500 tracking-wider uppercase mb-4">WeChat</div>
-  <div class="text-6xl mb-6">加入微信群</div>
+  <div class="text-6xl mb-6">Contact us</div>
 
-  <img src="/assets/qrcode.jpg" alt="Wechat QR Code" class="mx-auto w-64 rounded-lg mt-8 border border-gray-800" />
+  <div class="grid grid-cols-2 gap-4 mt-8 max-w-xl mx-auto font-mono">
+    <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">mai_yang</div>
+    <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">marv1nnnnn</div>
+    <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">A5555555557</div>
+    <div class="p-4 border border-gray-800 rounded-lg bg-[#181818]">zhuzhs</div>
+  </div>
 </div>
 
 ---
