@@ -61,20 +61,24 @@ layout: center
     <span class="w-6 mr-2 text-gray-600 font-mono">7.</span>
     <span class="text-gray-300">Dr.咩：Cursor赋能医学科普：从零到一，手把手教你创作专业级小红书笔记</span>
   </div>
-  <div class="flex items-center p-1">
+    <div class="flex items-center p-1">
     <span class="w-6 mr-2 text-gray-600 font-mono">8.</span>
-    <span class="text-gray-300">Michael：使用Cursor搭建一个医学科普网站</span>
+    <span class="text-gray-300">Cursor 官方工程师答疑视频</span>
   </div>
   <div class="flex items-center p-1">
     <span class="w-6 mr-2 text-gray-600 font-mono">9.</span>
-    <span class="text-gray-300">张永城：看不懂代码的产品经理怎么用Cursor做AI项目</span>
+    <span class="text-gray-300">Michael：使用Cursor搭建一个医学科普网站</span>
   </div>
   <div class="flex items-center p-1">
     <span class="w-6 mr-2 text-gray-600 font-mono">10.</span>
+    <span class="text-gray-300">张永城：看不懂代码的产品经理怎么用Cursor做AI项目</span>
+  </div>
+  <div class="flex items-center p-1">
+    <span class="w-6 mr-2 text-gray-600 font-mono">11.</span>
     <span class="text-gray-300">A梦：用 Cursor 做真产品：从域名痛点到门店系统，一人公司的实战笔记</span>
   </div>
     <div class="flex items-center p-1">
-    <span class="w-6 mr-2 text-gray-600 font-mono">11.</span>
+    <span class="w-6 mr-2 text-gray-600 font-mono">12.</span>
     <span class="text-gray-300">抽奖 & 自由讨论</span>
   </div>
 </div>
